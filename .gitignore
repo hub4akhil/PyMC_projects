@@ -1,0 +1,6 @@
+__pycache__/
+
+.DS_Store
+bestseller_books
+housing_price/model_results
+
