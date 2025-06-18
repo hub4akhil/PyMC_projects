@@ -4,3 +4,4 @@ __pycache__/
 bestseller_books
 housing_price/model_results
 
+housing_price/.DS_Store
