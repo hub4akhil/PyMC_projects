@@ -1,0 +1,45 @@
+name: datascience
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - setuptools
+  - wheel
+
+  # Core libraries
+  - numpy
+  - pandas
+  - scipy
+
+  # Visualization
+  - matplotlib
+  - seaborn
+  - plotly
+
+  # Machine Learning
+  - scikit-learn
+  - xgboost
+  - lightgbm
+
+  # Bayesian / Statistics
+  - statsmodels
+  - pymc
+  - arviz
+
+  # Utility
+  - tqdm
+
+  # Notebooks & Dev Tools
+  - ipython
+  - jupyterlab
+  - notebook
+
+  # SQL / DB tools
+  - sqlalchemy
+  - sqlite
+  - pandasql
+
+  # ML Ops
+  - mlflow
