@@ -11,15 +11,15 @@ housing_price/Copy_of_housing_price (1).ipynb
 housing_price/.DS_Store
 pymc_marketing-main
 .DS_Store
-dataprocessing/time_series/store-sales-time-series-forecasting/store_sales_time_series.csv
-dataprocessing/time_series/store-sales-time-series-forecasting/store_sales_time_series_test.csv
-dataprocessing/time_series/store-sales-time-series-forecasting/holidays_events.csv
 
-dataprocessing/time_series/store-sales-time-series-forecasting/oil.csv
-dataprocessing/time_series/store-sales-time-series-forecasting/transactions.csv
-dataprocessing/time_series/store-sales-time-series-forecasting/train.csv
+store-sales-time-series-forecasting/store_sales_time_series.csv
+store-sales-time-series-forecasting/store_sales_time_series_test.csv
+store-sales-time-series-forecasting/train.csv
+store-sales-time-series-forecasting/holidays_events.csv
+store-sales-time-series-forecasting/oil.csv
 
-dataprocessing/time_series/store-sales-time-series-forecasting/test.csv
-dataprocessing/time_series/store-sales-time-series-forecasting/stores.csv
+store-sales-time-series-forecasting/transactions.csv
+store-sales-time-series-forecasting/sample_submission.csv
+store-sales-time-series-forecasting/stores.csv
 
-dataprocessing/time_series/store-sales-time-series-forecasting/sample_submission.csv
+store-sales-time-series-forecasting/test.csv
